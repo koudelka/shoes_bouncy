@@ -1,6 +1,6 @@
 #!/usr/bin/env shoes
 
-require File.dirname(__FILE__)+'/lib/shoes_shared/point'
+require File.dirname(__FILE__)+'/lib/shoes_shared/lib/point'
 
 =begin
 class Shoes
